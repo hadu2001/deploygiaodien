@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploygiaodien/static/css/main.b469db0f.css",
-    "main.js": "/deploygiaodien/static/js/main.721fc1ea.js",
+    "main.js": "/deploygiaodien/static/js/main.364d674f.js",
     "static/js/787.a5a764a4.chunk.js": "/deploygiaodien/static/js/787.a5a764a4.chunk.js",
     "static/media/avatar.svg": "/deploygiaodien/static/media/avatar.056966e877b234637040448b68f13adb.svg",
     "static/media/testThongKe.svg": "/deploygiaodien/static/media/testThongKe.902f34a42d99b0bf3584491c74ae7e5d.svg",
@@ -14,11 +14,11 @@
     "static/media/question.svg": "/deploygiaodien/static/media/question.a2a79b4fd0bc5e08dc69360c173b2f80.svg",
     "static/media/gh_geo.svg": "/deploygiaodien/static/media/gh_geo.a3b0bbbd664a201f2d43407b88cfa990.svg",
     "main.b469db0f.css.map": "/deploygiaodien/static/css/main.b469db0f.css.map",
-    "main.721fc1ea.js.map": "/deploygiaodien/static/js/main.721fc1ea.js.map",
+    "main.364d674f.js.map": "/deploygiaodien/static/js/main.364d674f.js.map",
     "787.a5a764a4.chunk.js.map": "/deploygiaodien/static/js/787.a5a764a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b469db0f.css",
-    "static/js/main.721fc1ea.js"
+    "static/js/main.364d674f.js"
   ]
 }
