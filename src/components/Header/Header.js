@@ -20,7 +20,7 @@ function Header() {
             
             <Navbar.Collapse id="basic-navbar-nav me-auto">
               <Nav className={cx("navbar_nav")} style={{color:'#333'}}>
-                <Nav.Link as={NavLink} to="/" className={`${cx("ht_geo")}` } >
+                <Nav.Link as={NavLink} to="/deploygiaodien" className={`${cx("ht_geo")}` } >
                 <img src={images.logo} alt="Ht-geo" />
                 </Nav.Link>
                 <Nav.Link as={NavLink} to="/upload" className={`${cx("nav_item")} ` }>Công việc</Nav.Link>
