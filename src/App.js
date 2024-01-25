@@ -12,7 +12,7 @@ function App() {
    
           <MainLayout>
             <Routes>
-              <Route path='/' element={<Context></Context>}></Route>
+              <Route path='/deploygiaodien' element={<Context></Context>}></Route>
               <Route path='/follow' element={<Follow></Follow>}></Route>
               <Route path='/context' element={<Context></Context>}></Route>
               <Route path='/upload' element={<Upload></Upload>}></Route>
